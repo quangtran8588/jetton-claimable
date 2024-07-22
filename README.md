@@ -2,6 +2,8 @@
 
 This contract provides an example of creating the `Jetton Claimable Minter` on TON network. Contract has not been testing nor audit to check security issues. Please be carefull when using this contract in the production.
 
+Also visit this repo for the Front-end part (Full DApp): https://github.com/quangtran8588/jetton-claim-fe
+
 ### Project structure
 
 - `contracts` - source code of all the smart contracts of the project and their dependencies.
